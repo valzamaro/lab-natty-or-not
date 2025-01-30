@@ -33,7 +33,7 @@ Iniciei pesquisa com copilot e depois chatGPT para ajudar a montar um ebook de d
 cereais e frutas, elaborando a apresentação das receitas por capítulos, detalhando a apresentação delas conforme a sugestão dele.
 
 ## 🚀 Resultados
-Consegui fazer um ebook baseado no que tenho prática, embora não seja relacionado às atividades da Caixa. Segue o ebook:
+Consegui fazer um ebook baseado no que tenho prática, embora não seja relacionado às atividades da Caixa. Segue o ebook: https://github.com/valzamaro/lab-natty-or-not/blob/main/Ebook%20Doces%20Caseiros.pptx
 
 ## 💭 Reflexão (Opcional)
 Foi realmente desafiador, porque há 18 anos não fazia qualquer curso relacionado à área de tecnologia e informática.
