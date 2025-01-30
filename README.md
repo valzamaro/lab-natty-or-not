@@ -23,20 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook de doces caseirose saudáveis com vegetais, cereais e frutas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot iniciar pesquisa, chatGPT para ideias de receitas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei pesquisa com copilot e depois chatGPT para ajudar a montar um ebook de doces saudáveis fáceis com vegetais,
+cereais e frutas, elaborando a apresentação das receitas por capítulos, detalhando a apresentação delas conforme a sugestão dele.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Consegui fazer um ebook baseado no que tenho prática, embora não seja relacionado às atividades da Caixa. Segue o ebook:
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi realmente desafiador, porque há 18 anos não fazia qualquer curso relacionado à área de tecnologia e informática.
+Mesmo sendo simples me sinto feliz por ter conseguido fazer, porque tudo para mim é novidade. 
+
 
 ### Exemplos e Insigths
 
